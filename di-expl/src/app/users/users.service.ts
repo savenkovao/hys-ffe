@@ -1,4 +1,4 @@
-import {ChangeDetectorRef, Injectable, Injector, NgZone, Renderer2} from '@angular/core';
+import {Injectable, Injector, NgZone} from '@angular/core';
 
 @Injectable({
   providedIn: 'root'
